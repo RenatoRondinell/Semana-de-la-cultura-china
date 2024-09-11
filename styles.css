@@ -1,0 +1,81 @@
+body {
+  background-color: brown;
+}
+
+div {
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  display: flex;
+  text-align: justify;
+}
+
+.titulo p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+  color: ;
+}
+.imagen img {
+  width: 40%;
+  height: 40%;
+  margin-right: 70px;
+  border: black 5px solid;
+  border-radius: 10px 0px 39px 22px;
+  border-style: double;
+}
+
+.enlace p {
+  color: black;
+  font-size: 25px;
+  font-family: "Comic Sans MS";
+  margin: 5%;
+}
+
+.imagen .imagen1 {
+  width: 20%;
+  height: 20%;
+  border: black 5px solid;
+  border-style: double;
+}
+
+.imagen .imagen2 {
+  width: 20%;
+  height: 20%;
+  border: black 5px solid;
+  border-style: double;
+  border-radius: 10px 0px 39px 22px;
+}
+
+.cuerpo p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  color: ;
+  border-color: rgba(255, 81, 0, 0.74) black rgba(255, 81, 0, 0.74);
+  border-width: 10px;
+  border-style: solid;
+  background-color: rgb(252, 148, 12);
+  border-radius: 10px 0px 39px 22px;
+}
+
+.cuerpo .imagen3 {
+  width: 25%;
+  height: 20%;
+  margin: 30px;
+  border: black 5px solid;
+  border-radius: 10px 0px 39px 22px;
+}
+
+.cuerpo .imagen4 {
+  width: 30%;
+  height: 0%;
+  margin: 30px;
+  border: black 5px solid;
+  border-radius: 10px 0px 39px 22px;
+}
+
+.lista {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  color: ;
+  line-height: 1.7;
+}
